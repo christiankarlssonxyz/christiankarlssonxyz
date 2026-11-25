@@ -41,3 +41,11 @@ Sidan presenterar mig med namn och profilbild.
 ## Källkod
 
 Källkoden från projektets `main`-branch publiceras på github.com/christiankarlssonxyz.
+
+## Licens
+
+Projektet är fri programvara och distribueras under
+GNU General Public License version 3 eller senare
+(GPL-3.0-or-later).
+
+Se [LICENSE](LICENSE) för fullständiga licensvillkor.
